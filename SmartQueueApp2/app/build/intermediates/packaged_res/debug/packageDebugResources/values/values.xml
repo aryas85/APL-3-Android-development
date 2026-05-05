@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#3B82F6</color>
+    <color name="colorPrimary">#1E3A8A</color>
+    <color name="colorPrimaryDark">#172554</color>
+    <color name="light_bg">#F0F4FF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">SmartQueueApp</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#1E3A8A</item>
+        <item name="colorPrimaryDark">#172554</item>
+        <item name="colorAccent">#3B82F6</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+    <style name="Theme.SmartQueueApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#1E3A8A</item>
+        <item name="colorPrimaryDark">#172554</item>
+        <item name="colorAccent">#3B82F6</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
